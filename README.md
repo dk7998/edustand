@@ -1,0 +1,2 @@
+# edustand
+School Application
